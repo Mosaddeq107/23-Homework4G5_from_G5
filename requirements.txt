@@ -2,4 +2,3 @@ numpy
 matplotlib
 flake8
 pytest
- run %pip,  do it in the action work flow. 
